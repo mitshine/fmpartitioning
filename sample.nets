@@ -1,0 +1,18 @@
+net net_25 5
+	inst_2967 I0 2
+	inst_2323 I1
+	inst_2380 I2
+	inst_2964 I2 2
+	inst_994 I3
+	inst_2142 O
+endnet
+net net_26 3
+	inst_2635 I4 2
+	inst_994 I3
+	inst_712 Q 2
+endnet
+net net_27 3
+	inst_2602 I0
+	inst_3021 I5
+	inst_936 Q
+endnet
